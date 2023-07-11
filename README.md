@@ -50,20 +50,6 @@ Once the scraping process is complete, you can find your DentalKart Products in 
 
 ## 🤔 FAQs
 
-### ❓ What services do you provide?
-A: We specialize in developing professional bots. Some of our popular Ready Made Bots, are:
-
-1. **LinkedIn Messaging Bot**: Connect with thousands of LinkedIn users to promote and sell your products.
-2. **Gmail Email Sending Bot**: Reach out to thousands of people through email to market your products.
-3. **Discord Messaging Bot**: Engage with a large audience on Discord and promote your offerings.
-4. **Reddit Messaging Bot**: Communicate with thousands of individuals on Reddit to showcase your products.
-5. **Instagram Messaging Bot**: Connect with a wide user base on Instagram and promote your brand.
-6. **Realtors Scraping**: Extract real-time home listings from realtors websites.
-
-In addition, we offer Custom Bot Solutions tailored to your specific requirements. 
-
-Let's discuss your requirements further! Feel free to reach out to me at chetan@omkar.cloud.
-
 ### ❓ The code looks well-structured and organized. Most Selenium codebases are messy. How did you do it?
 
 A: I use the Bose Framework, a Bot Development Framework that greatly simplifies the process of creating bots.
@@ -81,6 +67,20 @@ Without Bose Framework, it would be 2x more harder to make this DentalKart Scrap
 
 Explore the Bose Framework [here](https://www.omkar.cloud/bose/).
 
+
+### ❓ What services do you provide?
+A: We specialize in developing professional bots. Some of our popular Ready Made Bots, are:
+
+1. **LinkedIn Messaging Bot**: Connect with thousands of LinkedIn users to promote and sell your products.
+2. **Gmail Email Sending Bot**: Reach out to thousands of people through email to market your products.
+3. **Discord Messaging Bot**: Engage with a large audience on Discord and promote your offerings.
+4. **Reddit Messaging Bot**: Communicate with thousands of individuals on Reddit to showcase your products.
+5. **Instagram Messaging Bot**: Connect with a wide user base on Instagram and promote your brand.
+6. **Realtors Scraping**: Extract real-time home listings from realtors websites.
+
+In addition, we offer Custom Bot Solutions tailored to your specific requirements. 
+
+Let's discuss your requirements further! Feel free to reach out to me at chetan@omkar.cloud.
 
 ### ❓ How can I thank you?
 
