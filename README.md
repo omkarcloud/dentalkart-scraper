@@ -30,6 +30,10 @@
 
 🌟 Scrape DentalKart Products! 🤖
 
+This scraper is designed to help you download DentalKart Products. We have already scraped a dataset of 5138 DentalKart Products for your convenience, available in the file `output/finished.csv`, which was scraped on July 11, 2023. Feel free to use this dataset if it meets your requirements.
+
+However, if you need to rescrape DentalKart Products, please follow the instructions below to get started:
+
 ## 🚀 Getting Started
 
 1️⃣ Clone the Magic 🧙‍♀️:

@@ -29,8 +29,12 @@ class Task(BaseTask):
             if price is None or title is None:
                 driver.save_screenshot(save_name)
             else:
-                result += [{"title": title.text,
-                            "price": price.text, "url": url}]
+                new_data = {"title": title.text,
+                            "price": price.text, "url": url}
+                
+                print(new_data)
+     
+                result += [new_data]
                 Output.write_json(result, 'data')
 
         return result
