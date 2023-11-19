@@ -26,13 +26,19 @@
   <img src="https://views.whatilearened.today/views/github/omkarcloud/dentalkart-scraper.svg" width="80px" height="28px" alt="View" />
 </p>
 
+<p align="center">
+  <a href="https://gitpod.io/#https://github.com/omkarcloud/dentalkart-scraper">
+    <img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg" />
+  </a>
+</p>
+  
+
 ---
 
 🌟 Scrape DentalKart Products! 🤖
 
-This scraper is designed to help you download DentalKart Products. We have already scraped a dataset of 5138 DentalKart Products for your convenience, available in the file `output/finished.csv`, which was scraped on July 11, 2023. Feel free to use this dataset if it meets your requirements.
+This scraper is designed to help you download DentalKart Products. 
 
-However, if you need to rescrape DentalKart Products, please follow the instructions below to get started:
 
 ## 🚀 Getting Started
 
@@ -50,8 +56,43 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-Once the scraping process is complete, you can find your DentalKart Products in the `output/finished.csv`. 
+Once the scraping process is complete, you can find your DentalKart Products in the `output/finished.csv`.
 
+## 🤔 Questions
+
+
+### ❓ I don't have Python, or I'm facing errors when setting up the scraper on my PC. How to solve it?
+
+You can easily run the scraper in Gitpod, a browser-based development environment. Set it up in just 5 minutes by following these steps:
+
+1. Visit [this link](https://gitpod.io/#https://github.com/omkarcloud/google-maps-scraper) and sign up using your GitHub account.
+   
+   ![Screenshot (148)](https://github.com/omkarcloud/google-maps-scraper/assets/53407137/f498dda8-5352-4f7a-9d70-c717859670d4.png)
+  
+2. Once Signed Up, Open it in Gitpod.   
+
+   ![gp-continue](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/gp-continue.png)
+
+3. In the terminal, run the following command to start scraping:
+   ```bash
+   python main.py
+   ```
+  
+4. Once the scraper has finished running, download the leads from the `output` folder.
+
+   ![Screenshot (219)](https://github.com/omkarcloud/google-maps-scraper/assets/53407137/bade4001-12dc-4191-972e-cba0466f3e3f.png)
+
+Just like with a local setup, you can configure the scraper in Gitpod by editing the `main.py` file and running the scraper using the `python main.py` command.
+
+Also, it's important to regularly interact with the Gitpod environment, such as clicking within it every 30 minutes, to keep the machine active and prevent automatic shutdown. 
+
+If you don't want to click every 30 minutes, then we encourage to install Python on PC and run the scraper locally. 
+
+### ❓ Can I Interrupt the Scrape While It's Running?
+Yes, you can. The scraper will resume from where it left off if you interrupt the process.
+
+
+<!-- 
 ## 🤔 FAQs
 
 ### ❓ The code looks well-structured and organized. Most Selenium codebases are messy. How did you do it?
@@ -84,14 +125,15 @@ A: We specialize in developing professional bots. Some of our popular Ready Made
 
 In addition, we offer Custom Bot Solutions tailored to your specific requirements. 
 
-Let's discuss your requirements further! Feel free to reach out to me at chetan@omkar.cloud.
+Let's discuss your requirements further! Feel free to reach out to me at chetan@omkar.cloud. -->
 
-### ❓ How can I thank you?
 
-Star ⭐ the repository.
+## Love It? [Star It ⭐!](https://github.com/omkarcloud/google-maps-scraper)
 
-Your star will send me a Telegram Notification, and it will bring a smile to my face :)
+Become one of our amazing stargazers by giving us a star ⭐ on GitHub!
 
----
+It's just one click, but it means the world to me.
 
-## Love It? Star It! ⭐
+[![Stargazers for @omkarcloud/google-maps-scraper](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=omkarcloud&repo=google-maps-scraper)](https://github.com/omkarcloud/google-maps-scraper/stargazers)
+
+## Made with ❤️ in Bharat 🇮🇳 - Vande Mataram
