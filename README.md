@@ -61,6 +61,9 @@ Once the scraping process is complete, you can find your DentalKart Products in 
 ## 🤔 Questions
 
 
+### ❓ Can I Interrupt the Scrape While It's Running?
+Yes, you can. The scraper will resume from where it left off if you interrupt the process.
+
 ### ❓ I don't have Python, or I'm facing errors when setting up the scraper on my PC. How to solve it?
 
 You can easily run the scraper in Gitpod, a browser-based development environment. Set it up in just 5 minutes by following these steps:
@@ -78,18 +81,14 @@ You can easily run the scraper in Gitpod, a browser-based development environmen
    python main.py
    ```
   
-4. Once the scraper has finished running, download the leads from the `output` folder.
+4. Once the scraper has finished running, you can download the data from `output` folder.
 
    ![Screenshot (219)](https://github.com/omkarcloud/google-maps-scraper/assets/53407137/bade4001-12dc-4191-972e-cba0466f3e3f.png)
 
-Just like with a local setup, you can configure the scraper in Gitpod by editing the `main.py` file and running the scraper using the `python main.py` command.
 
 Also, it's important to regularly interact with the Gitpod environment, such as clicking within it every 30 minutes, to keep the machine active and prevent automatic shutdown. 
 
 If you don't want to click every 30 minutes, then we encourage to install Python on PC and run the scraper locally. 
-
-### ❓ Can I Interrupt the Scrape While It's Running?
-Yes, you can. The scraper will resume from where it left off if you interrupt the process.
 
 
 <!-- 
