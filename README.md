@@ -35,6 +35,14 @@
 
 ---
 
+## Disclaimer for Dentalkart Scraper Project
+
+> By using Dentalkart Scraper, you agree to comply with all applicable local and international laws related to data scraping, copyright, and privacy. The developers of Dentalkart Scraper will not be held liable for any misuse of this software. It is the user's sole responsibility to ensure adherence to all relevant laws regarding data scraping, copyright, and privacy, and to use Dentalkart Scraper in an ethical and legal manner, in line with both local and international regulations.
+
+We take concerns related to the Dentalkart Scraper Project very seriously. If you have any inquiries or issues, please contact Chetan Jain at [chetan@omkar.cloud](mailto:chetan@omkar.cloud). We will take prompt and necessary action in response to your emails.
+
+---
+
 🌟 Scrape DentalKart Products! 🤖
 
 This scraper is designed to help you download DentalKart Products. 
